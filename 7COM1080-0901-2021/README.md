@@ -16,6 +16,6 @@ Your presentation should have the following sections:
 #### Soluation ####
 Please refer to Power Point Presentation attached in this directory.
 
-we presented Critical Reflection of the current technological developments going right now on computing and technological development.
+We presented Critical Reflection of the technological developments going right now on computing and software development.
 As part of this work, we identify the ethical issue, legal issue, and professional issue with respect to ethical OS framework, legal laws as per jurisdiction, and ACM & BCS code of conduct respectively.
 We also justify our choices, suggests possible remedies for the chosen topic of technological development.
